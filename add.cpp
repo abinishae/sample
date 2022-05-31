@@ -1,7 +1,7 @@
  #include<iostream>
  using namespace std;
  int main (){
-     int a = 0;
+     int a = 33;
      a ++;
      cout<<a;
      cout<<" added this line";
