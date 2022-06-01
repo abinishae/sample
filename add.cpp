@@ -10,6 +10,8 @@
      a --;
       newbranch
       */
+     int a = 1000;
+     a ++;
      cout<<"merge conflict fixed";
     
      cout<<a;
