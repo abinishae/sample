@@ -2,7 +2,7 @@
  using namespace std;
  int main (){
 
-     cout<<"new 2 vanakkam";
+     cout<<"hi";
      
   
  }
